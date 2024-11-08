@@ -3,7 +3,7 @@ model was ensemble tree method combining treebagger, adaboost, and rusboost.<br 
 heavy focus on feature extraction from signal processing point of view.
 
   >validation: 0.72<br />
-  >test: 0.52<br />
+  >test: 0.52
 
 in collaboration with Allan Moser and Lys Kang.<br />
 this was the team's final and official entry.
