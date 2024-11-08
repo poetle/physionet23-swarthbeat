@@ -6,6 +6,6 @@ heavy focus on feature extraction from signal processing point of view.
   >test: 0.52<br />
 
 in collaboration with Allan Moser and Lys Kang.<br />
-this was the team's final entry.
+this was the team's final and official entry.
 
 entry date: 08/30/2023
